@@ -1,5 +1,5 @@
 <?php
- $sitelink="http://amrdown.000webhostapp.com/Instagram/Profile/"; ?>
+ $sitelink="https://profildl.herokuapp.com/"; ?>
 <!doctype html>
 <html lang="tr">
 <head>
@@ -56,7 +56,7 @@
 <body>
   <!-- Bu Script "Ökkeş Aksoy | Aksoyhlc" Tarafından Yapılmıştır -->
   <?php 
-  $sitelink="http://amrdown.000webhostapp.com/Instagram/Profile/";
+  $sitelink="https://profildl.herokuapp.com/";
   if (isset($_GET['username'])) {
    $username=$_GET['username']; ?>
 
