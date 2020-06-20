@@ -1,5 +1,5 @@
 <?php
- $sitelink="https://amrdown.000webhostapp.com/Instagram/Profile/"; ?>
+ $sitelink="http://profildl.epizy.com/Instagram/"; ?>
 <!doctype html>
 <html lang="tr">
 <head>
@@ -56,7 +56,7 @@
 <body>
   <!-- Bu Script "Ökkeş Aksoy | Aksoyhlc" Tarafından Yapılmıştır -->
   <?php 
-  $sitelink="https://amrdown.000webhostapp.com/Instagram/Profile/";
+  $sitelink="http://profildl.epizy.com/Instagram/";
   if (isset($_GET['username'])) {
    $username=$_GET['username']; ?>
 
